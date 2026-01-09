@@ -1,0 +1,42 @@
+div {
+    /* background-color: rgb(228, 255, 122); */
+}
+
+h3 {
+    color: rgb(255, 0, 238);
+    background-color: pink;
+}
+
+body{
+    text-align: center; /* Căn giữa Nội dung */
+}
+
+#para1{
+    color: blue;
+    border-bottom: 2px solid black;
+    width: 20vw; /* BOX */
+    margin: 0 auto; /* Căn giữa BLOCK */ 
+}
+
+/* #para1 {
+    width: 20vw;
+    margin: 20px auto;
+
+    padding: 15px;
+    background-color: lightyellow;
+
+    border: 2px solid black;
+    color: blue;
+} */
+
+#para2{
+    color: red;
+    border-bottom: 2px solid black;
+    width: 20vw; /* BOX */
+    margin: 0 auto; /* Căn giữa BLOCK */
+}
+
+#para3{
+    color: green;
+}
+
